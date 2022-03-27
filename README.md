@@ -35,3 +35,4 @@
   </tr>
 </table>
 
+![](https://komarev.com/ghpvc/?username=EnigmA737&color=fcba03&style=for-the-badge)
