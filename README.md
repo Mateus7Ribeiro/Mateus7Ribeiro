@@ -30,6 +30,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mateus7Ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus7Ribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>      <img width="100%" height="1">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&duration=3000&pause=700&color=07F724&multiline=true&width=435&height=150&lines=Wake+Up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;++++++++++++++++++++++;Knock%2C+knock%2C+Neo." alt="Typing SVG" /></a>
     </td>
     
   </tr>
